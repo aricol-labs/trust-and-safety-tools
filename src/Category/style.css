@@ -1,6 +1,7 @@
 .category {
   display: flex;
   align-items: center;
+  flex-direction: column;
   border: 1px solid black;
   padding: 10px;
   border-radius: 10px;
@@ -12,4 +13,8 @@
     padding: 0;
     border: none; 
     background: none;
+}
+
+.categoryInfo {
+  padding: 15px;
 }
