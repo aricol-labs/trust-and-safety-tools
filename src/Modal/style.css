@@ -1,4 +1,4 @@
-.modal-backdrop {
+/* .modal-backdrop {
   background: rgba(0, 0, 0, .75);
   position: fixed;
   top: 0;
@@ -6,7 +6,7 @@
   right: 0;
   bottom: 0;
   z-index: 999;
-}
+} */
 
 .modal {
   background: white;

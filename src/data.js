@@ -158,6 +158,10 @@ export const categories = [
           link: "https://github.com/bluesky-social/ozone"
         },
         {
+          name: "Meta's Purple Llama: CyberSecEval and Guard",
+          link: "https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/"
+        },
+        {
           name: "Meta's Threat Exchange",
           link: "https://github.com/facebook/ThreatExchange"
         },

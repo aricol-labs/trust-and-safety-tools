@@ -20,7 +20,7 @@ const Category = ({category}) => {
     return (
       <div className='category'>
           <button 
-            onClick={() => hasGivenEmailAddress()} 
+            onClick={() => setIsLarge(!isLarge)} 
             style={{fontSize: isLarge ? '20px' : '16px'}}>
             {category.name}
           </button>
